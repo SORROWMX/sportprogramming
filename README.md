@@ -15,10 +15,10 @@
 Скачать симулятор можно по следующей ссылке:
 https://github.com/SORROWMX/sportprogramming/releases
 
-#Урок с важными деталями программирования
+##Урок с важными деталями программирования
 Перед написанием кода обязательно ознакомьтесь со следующим уроком:
 https://docs.google.com/document/d/1N5lon9iUogqLALDbCXw0aD7OvRBwnt3T/edit?usp=sharing&ouid=108885227437729823859&rtpof=true&sd=true
-a
+
 ## Начало работы
 
 В репозитории есть готовые примеры полетных заданий:
